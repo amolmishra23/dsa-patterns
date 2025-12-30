@@ -55,38 +55,38 @@ When you see a new problem, your brain should instantly connect:
 
 ### Phase 2: Core Patterns (Weeks 2-4)
 
-> **Note**: The "Problems" column shows **core problems** with detailed solutions. See the [Progress Tracker](#progress-tracker) for the complete count including practice problems.
+> **Note**: The "Problems" column shows the **total problems** in each pattern's practice list.
 
 | # | Pattern | Key Insight | Problems |
 |---|---------|-------------|----------|
-| 01 | [Arrays & Hashing](./01-arrays-hashing/) | O(1) lookup with hash maps | 12 |
-| 02 | [Two Pointers](./02-two-pointers/) | O(n²) → O(n) with sorted/in-place | 12 |
-| 03 | [Sliding Window](./03-sliding-window/) | Track subarray/substring efficiently | 12 |
-| 04 | [Binary Search](./04-binary-search/) | O(n) → O(log n) on sorted/monotonic | 12 |
-| 05 | [Prefix Sum](./05-prefix-sum/) | O(n) range queries | 10 |
-| 06 | [Linked List](./06-linked-list/) | Pointer manipulation, fast-slow | 12 |
-| 07 | [Stacks & Queues](./07-stacks-queues/) | LIFO/FIFO, monotonic patterns | 12 |
+| 01 | [Arrays & Hashing](./01-arrays-hashing/) | O(1) lookup with hash maps | 31 |
+| 02 | [Two Pointers](./02-two-pointers/) | O(n²) → O(n) with sorted/in-place | 26 |
+| 03 | [Sliding Window](./03-sliding-window/) | Track subarray/substring efficiently | 19 |
+| 04 | [Binary Search](./04-binary-search/) | O(n) → O(log n) on sorted/monotonic | 25 |
+| 05 | [Prefix Sum](./05-prefix-sum/) | O(n) range queries | 16 |
+| 06 | [Linked List](./06-linked-list/) | Pointer manipulation, fast-slow | 27 |
+| 07 | [Stacks & Queues](./07-stacks-queues/) | LIFO/FIFO, monotonic patterns | 25 |
 
 ### Phase 3: Tree & Graph Patterns (Weeks 5-7)
 | # | Pattern | Key Insight | Problems |
 |---|---------|-------------|----------|
-| 08 | [Trees - DFS](./08-trees-dfs/) | Recursion = tree traversal | 15 |
-| 09 | [Trees - BFS](./09-trees-bfs/) | Level-by-level processing | 10 |
-| 10 | [Backtracking](./10-backtracking/) | Explore all → prune invalid | 12 |
-| 11 | [Graphs - Basics](./11-graphs-basics/) | DFS/BFS traversal, connected components | 12 |
-| 12 | [Graphs - Advanced](./12-graphs-advanced/) | Topo sort, Union-Find, Dijkstra | 12 |
+| 08 | [Trees - DFS](./08-trees-dfs/) | Recursion = tree traversal | 33 |
+| 09 | [Trees - BFS](./09-trees-bfs/) | Level-by-level processing | 21 |
+| 10 | [Backtracking](./10-backtracking/) | Explore all → prune invalid | 18 |
+| 11 | [Graphs - Basics](./11-graphs-basics/) | DFS/BFS traversal, connected components | 22 |
+| 12 | [Graphs - Advanced](./12-graphs-advanced/) | Topo sort, Union-Find, Dijkstra | 19 |
 
 ### Phase 4: Advanced Patterns (Weeks 8-12)
 | # | Pattern | Key Insight | Problems |
 |---|---------|-------------|----------|
-| 13 | [Heaps](./13-heaps/) | Top-K, streaming data, K-way merge | 12 |
-| 14 | [Dynamic Programming](./14-dynamic-programming/) | Overlapping subproblems → memoize | 20 |
-| 15 | [Intervals](./15-intervals/) | Sort by start, merge overlaps | 10 |
-| 16 | [Greedy](./16-greedy/) | Local optimal → global optimal | 12 |
-| 17 | [Trie](./17-trie/) | Prefix matching in O(L) | 8 |
-| 18 | [Bit Manipulation](./18-bit-manipulation/) | XOR tricks, bit operations | 10 |
-| 19 | [Math & Geometry](./19-math-geometry/) | Number theory, cyclic sort | 10 |
-| 20 | [Design Problems](./20-design-problems/) | System design, data structure design | 10 |
+| 13 | [Heaps](./13-heaps/) | Top-K, streaming data, K-way merge | 20 |
+| 14 | [Dynamic Programming](./14-dynamic-programming/) | Overlapping subproblems → memoize | 30 |
+| 15 | [Intervals](./15-intervals/) | Sort by start, merge overlaps | 20 |
+| 16 | [Greedy](./16-greedy/) | Local optimal → global optimal | 23 |
+| 17 | [Trie](./17-trie/) | Prefix matching in O(L) | 17 |
+| 18 | [Bit Manipulation](./18-bit-manipulation/) | XOR tricks, bit operations | 19 |
+| 19 | [Math & Geometry](./19-math-geometry/) | Number theory, cyclic sort | 26 |
+| 20 | [Design Problems](./20-design-problems/) | System design, data structure design | 37 |
 
 ### Quick Reference
 | Resource | Description |

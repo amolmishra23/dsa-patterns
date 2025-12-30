@@ -174,32 +174,32 @@ Week 13+:   Review + Mock interviews
 
 | Pattern | Fundamentals | Easy | Medium | Hard | Total | Mastered |
 |---------|:------------:|:----:|:------:|:----:|:-----:|:--------:|
-| Arrays & Hashing | ☐ | 14 | 12 | 10 | 36 | ☐ |
-| Two Pointers | ☐ | 12 | 10 | 20 | 42 | ☐ |
-| Sliding Window | ☐ | 12 | 12 | 20 | 44 | ☐ |
-| Binary Search | ☐ | 14 | 12 | 18 | 44 | ☐ |
-| Prefix Sum | ☐ | 14 | 14 | 12 | 40 | ☐ |
-| Linked List | ☐ | 14 | 16 | 10 | 40 | ☐ |
-| Stacks & Queues | ☐ | 16 | 16 | 12 | 44 | ☐ |
-| Trees - DFS | ☐ | 16 | 20 | 20 | 56 | ☐ |
-| Trees - BFS | ☐ | 20 | 20 | 12 | 52 | ☐ |
-| Backtracking | ☐ | 22 | 20 | 12 | 54 | ☐ |
-| Graphs - Basics | ☐ | 20 | 20 | 12 | 52 | ☐ |
-| Graphs - Advanced | ☐ | 16 | 10 | 20 | 46 | ☐ |
-| Heaps | ☐ | 20 | 16 | 12 | 48 | ☐ |
-| Dynamic Programming | ☐ | 14 | 12 | 12 | 38 | ☐ |
-| Intervals | ☐ | 16 | 20 | 12 | 48 | ☐ |
-| Greedy | ☐ | 20 | 16 | 12 | 48 | ☐ |
-| Trie | ☐ | 18 | 12 | 12 | 42 | ☐ |
-| Bit Manipulation | ☐ | 22 | 18 | 12 | 52 | ☐ |
-| Math & Geometry | ☐ | 22 | 18 | 12 | 52 | ☐ |
-| Design Problems | ☐ | 16 | 12 | 12 | 40 | ☐ |
-| **TOTAL** | 20 | **338** | **306** | **274** | **918** | - |
+| Arrays & Hashing | ☐ | 9 | 15 | 7 | 31 | ☐ |
+| Two Pointers | ☐ | 14 | 10 | 2 | 26 | ☐ |
+| Sliding Window | ☐ | 1 | 12 | 6 | 19 | ☐ |
+| Binary Search | ☐ | 5 | 15 | 5 | 25 | ☐ |
+| Prefix Sum | ☐ | 4 | 10 | 2 | 16 | ☐ |
+| Linked List | ☐ | 7 | 16 | 4 | 27 | ☐ |
+| Stacks & Queues | ☐ | 6 | 13 | 6 | 25 | ☐ |
+| Trees - DFS | ☐ | 10 | 18 | 5 | 33 | ☐ |
+| Trees - BFS | ☐ | 2 | 16 | 3 | 21 | ☐ |
+| Backtracking | ☐ | 0 | 14 | 4 | 18 | ☐ |
+| Graphs - Basics | ☐ | 1 | 18 | 3 | 22 | ☐ |
+| Graphs - Advanced | ☐ | 0 | 14 | 5 | 19 | ☐ |
+| Heaps | ☐ | 2 | 12 | 6 | 20 | ☐ |
+| Dynamic Programming | ☐ | 3 | 22 | 5 | 30 | ☐ |
+| Intervals | ☐ | 1 | 14 | 5 | 20 | ☐ |
+| Greedy | ☐ | 2 | 17 | 4 | 23 | ☐ |
+| Trie | ☐ | 2 | 7 | 8 | 17 | ☐ |
+| Bit Manipulation | ☐ | 5 | 14 | 0 | 19 | ☐ |
+| Math & Geometry | ☐ | 5 | 19 | 2 | 26 | ☐ |
+| Design Problems | ☐ | 5 | 22 | 10 | 37 | ☐ |
+| **TOTAL** | 20 | **84** | **288** | **92** | **494** | - |
 
 > **Note on Problem Counts**:
-> - The "Total" column includes **all practice problems** across Easy, Medium, and Hard difficulties
+> - The "Total" column includes **all practice problems** listed in the practice-list.md files
 > - Some problems appear in multiple patterns (e.g., Two Sum appears in Arrays & Hashing and Two Pointers)
-> - **Unique problems**: ~260 distinct LeetCode problems
+> - **Unique problems**: ~400 distinct LeetCode problems across all patterns
 > - The "Problems" counts in the Learning Path tables above show only **core problems** with detailed solutions
 
 ---
@@ -207,8 +207,8 @@ Week 13+:   Review + Mock interviews
 ## Course Statistics
 
 - **Total Patterns**: 20 core patterns
-- **Total Problems**: 250+ with detailed solutions
-- **Difficulty Distribution**: ~25% Easy, ~55% Medium, ~20% Hard
+- **Total Problems**: 494 problems across all practice lists (~400 unique)
+- **Difficulty Distribution**: ~17% Easy, ~58% Medium, ~19% Hard
 - **Estimated Completion**: 12-16 weeks (2-3 hours/day)
 
 ---
